@@ -1,0 +1,6 @@
+{
+  "databaseURL": "mongodb://prod-db.example.com:27017/prod_db",
+  "apiEndpoint": "https://api.example.com/api",
+  "otherConfig": "value"
+}
+
